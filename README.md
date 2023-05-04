@@ -47,10 +47,8 @@ cosists of current time, today's date, temperature in celcius, climatic conditio
 
 <p align="justify">
 
-## Sign Up 
+## Weather App 
 <img src="./screenshots/HomePage.png">
-
-### Sign In
-<img src="./screenshots/HomePage1.png">
+<img src="./screenshots/HomePage2.png">
 
 </p>
